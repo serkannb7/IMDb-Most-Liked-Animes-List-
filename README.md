@@ -1,5 +1,5 @@
 # Code to list IMDb favorite animes...  
-(IMDb en sevilen animeleri listeleyen kod...)
+***** (IMDb en sevilen animeleri listeleyen kod...) *****
 ## TR
 
 IMDb'den en popüler ve en sevilen animeleri alıp liste halinde terminalde sergileyen kod.... 
